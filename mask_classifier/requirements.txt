@@ -108,6 +108,6 @@ urllib3==1.25.8
 wasabi==0.2.2
 wcwidth==0.1.8
 webencodings==0.5.1
-Werkzeug==1.0.0
+Werkzeug==2.2.3
 wrapt==1.11.2
 zipp==2.2.0
